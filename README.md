@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sugini Injani and I'm a Frontend developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Sugini Injani and I'm a Frontend developer</h2>
 
 ###
 
