@@ -108,6 +108,3 @@
 
 <br clear="both">
 
-## 🌌 Quote  
-> “N'oublie pas d'taimer”  
-
