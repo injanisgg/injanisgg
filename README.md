@@ -1,68 +1,113 @@
-<h2 align="left">Hi 👋! My name is Sugini Injani and I'm a Frontend developer</h2>
+<h1 align="center">⚡ Sugini Injani</h1>
+<p align="center">Junior Frontend Developer — React.js • JavaScript • TypeScript • TailwindCSS</p>
 
-###
+---
 
+<h2 align="left">Hi 👋! My name is Sugini Injani and I'm a Frontend Developer</h2>
+
+
+
+---
+
+## 🔥 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=injanisgg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="width:30rem;" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=injanisgg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="width:29rem;" alt="languages graph"  />
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats-gg.vercel.app/api/top-langs/?username=injanisgg&layout=compact&theme=tokyonight&hide_border=false" width="400" />
+        <br/>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats-gg.vercel.app/api?username=injanisgg&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" width="400" />
+      </td>
+      <td style="border: none;">
+        <!-- GIF -->
+        <img src="https://github.com/injanisgg/image/blob/master/hello-gg.gif?raw=true" width="200" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
 
-<img align="right" style="height:250px; width:250px;" src="https://github.com/injanisgg/image/blob/master/hello-gg.gif?raw=true"  />
+---
 
-###
-
+## 💻 Tech Stack  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px; width:30px;" alt="javascript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:30px; width:30px;" alt="typescript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px; width:30px;" alt="react logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:30px; width:30px;" alt="next logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px; width:30px;" alt="html5 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px; width:30px;" alt="css3 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:30px;" alt="python logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:30px; width:30px;" alt="bootstrap logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="height:30px; width:30px;" alt="gitlab logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:30px; width:30px;" alt="git logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="height:30px; width:30px;" alt="kaggle logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=vite" style="height:30px; width:30px;" alt="vite logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" width="30" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=tailwind" style="height:30px; width:30px;" alt="tailwindcss logo"  />
+
+  <img src="https://skillicons.dev/icons?i=vite" height="30" width="30" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=figma" style="height:30px; width:30px;" alt="figma logo"  />
+
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" width="30" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=vercel" style="height:30px; width:30px;" alt="vercel logo"  />
+
+  <img src="https://skillicons.dev/icons?i=figma" height="30" width="30" />
+  <img width="16" />
+
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" width="30" />
+
 </div>
 
-###
+---
 
+## ✨ Connect With Me
 <div align="left">
-  <a href="instagram.com/s.injzhani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://instagram.com/s.injzhani" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="forggdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <a href="mailto:forggdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
+
   <a href="https://www.linkedin.com/in/suginiinjani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://suginiinjani.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
   </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
+## 🌌 Quote  
+> “N'oublie pas d'taimer”  
 
-
-###
